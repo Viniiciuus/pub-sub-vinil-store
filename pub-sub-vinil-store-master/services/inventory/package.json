@@ -1,0 +1,11 @@
+{
+  "name": "inventory",
+  "version": "1.0.0",
+  "description": "Serviço responsável pela atualização de estoque",
+  "main": "app.js",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.7.1",
+    "dotenv": "^8.2.0"
+  }
+}
